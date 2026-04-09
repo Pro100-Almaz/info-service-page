@@ -13,9 +13,9 @@ const navLinks = [
 ];
 
 const contacts = [
-  { label: "hello@astratech.dev", href: "mailto:hello@astratech.dev" },
-  { label: "Telegram", href: "https://t.me/astratech" },
-  { label: "WhatsApp", href: "https://wa.me/77000000000" },
+  { label: "kundakbaev.d@gmail.com", href: "mailto:kundakbaev.d@gmail.com" },
+  { label: "Telegram", href: "https://t.me/diarkkm" },
+  { label: "WhatsApp", href: "https://wa.me/77717999998" },
 ];
 
 export function Footer() {

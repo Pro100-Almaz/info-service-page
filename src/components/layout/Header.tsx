@@ -23,7 +23,8 @@ const navLinks: NavLink[] = [
   { label: "FAQ", href: "#faq" },
 ];
 
-const languages = ["RU", "KZ", "EN"] as const;
+// const languages = ["RU", "KZ", "EN"] as const;
+const languages = ["RU"] as const;
 
 // ─── Services Dropdown ────────────────────────────────────────────────────────
 
